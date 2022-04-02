@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Soykuu
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently improving SQL
+- 🌱 I’m currently learning Python
 
 - 📫 How to reach me; demireloyku@gmail.com
 
