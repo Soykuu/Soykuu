@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Soykuu
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently improving SQL
-- 🌱 I’m currently learning Python
+- 🌱 I want to improve  myself in test automation field
+- 🌱 I’m currently learning Java
+
 
 - 📫 How to reach me; demireloyku@gmail.com
 
