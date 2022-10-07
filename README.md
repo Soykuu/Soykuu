@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Soykuu
 - 👀 I’m interested in software manual test, test automation and data analysis
-- 🌱 I’m currently improving SQL
 - 🌱 I want to improve  myself in test automation field
 - 🌱 I’m currently learning Java
 
