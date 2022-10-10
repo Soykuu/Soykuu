@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soykuu&label=Profile%20views&color=0e75b6&style=flat" alt="soykuu" /> </p>
 
 
-- 🔭 I’m currently working on AgeSA transformation project as **manuel QA test engineer.**
+- 🔭 I’m currently working on AgeSA transformation project as manuel QA test engineer.
 
 - 🌱 I’m interested in test automation. I'm currently learning **java and selenium.**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1b_3L4S8nGE-b2-jwdVYCM21ucBIg12it/view?usp=sharing](https://drive.google.com/file/d/1b_3L4S8nGE-b2-jwdVYCM21ucBIg12it/view?usp=sharing)
 
-- 🎨 Hobbies **I do oil painting and charcoal drawing.**
+- 🎨 Hobbies I do oil painting and charcoal drawing.
 
 <div align="center">
   
