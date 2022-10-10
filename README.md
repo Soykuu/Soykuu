@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/sevmoykudemirel" target="blank"><img src="https://img.shields.io/twitter/follow/sevmoykudemirel?logo=twitter&style=for-the-badge" alt="sevmoykudemirel" /></a> </p>
 
+- 🔭 I’m currently working on AgeSA transformation project as manuel QA test engineer
+
 - 🌱 I’m currently learning **java and selenium**
 
 - 🤝 I’m looking for help with **java and selenium**
