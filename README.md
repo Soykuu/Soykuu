@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on AgeSA transformation project as manuel QA test engineer
 
-- 🌱 I’m currently learning **java and selenium**
+- 🌱 I’m interested in test automation. I'm currently learning **java and selenium**
 
 - 🤝 I’m looking for help with **java and selenium**
 
