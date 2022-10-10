@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **java and selenium**
 
-
+- ⚡ Fun fact **I do oil painting and charcoal drawing.**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1b_3L4S8nGE-b2-jwdVYCM21ucBIg12it/view?usp=sharing](https://drive.google.com/file/d/1b_3L4S8nGE-b2-jwdVYCM21ucBIg12it/view?usp=sharing)
 
