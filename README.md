@@ -40,4 +40,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soykuu&show_icons=true&locale=en&layout=compact" alt="soykuu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soykuu&" alt="soykuu" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=soykuu&" alt="soykuu" /></p>
