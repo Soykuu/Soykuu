@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **java and selenium.**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b_3L4S8nGE-b2-jwdVYCM21ucBIg12it/view?usp=sharing](https://drive.google.com/file/d/1b_3L4S8nGE-b2-jwdVYCM21ucBIg12it/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1RxoCnhAnxljlMG-bFDxYB_zy354bmTO-/view?usp=share_link">CV</a>
 
 - 🎨 Hobbies I do oil painting and charcoal drawing.
 
@@ -23,7 +23,7 @@
 <p align="center">
 
  <a href="https://www.linkedin.com/in/sevimoykudemirel/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:demireloyku@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> 
+ <a href="mailto:demireloyku@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> 
 
 </p>
 </div>
