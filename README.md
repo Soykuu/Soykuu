@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soykuu&label=Profile%20views&color=0e75b6&style=flat" alt="soykuu" /> </p>
 
 
-- 🔭 I’m currently working on AgeSA transformation project as manuel QA test engineer.
+- 🔭 I’m currently working as manuel QA engineer.
 
 - 🌱 I’m interested in test automation. I'm currently learning **java and selenium.**
 
@@ -39,8 +39,6 @@
 
 <h3 align="left">Languages - Tools - Technologies:</h3>
 <p align="left">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/> </a>
@@ -51,11 +49,12 @@
 <a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
 <a href="https://swagger.io/" target="_blank" rel=”noopener”> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-qHhkU65OgRkaxFh1vRF4ycDfUOznjs7cEu5aXbMwWCYpNUMNPfDcL9Fox0a3_mbtAY&usqp=CAU" alt="swagger" width="30" height="30"/> </a> 
 <a href="https://discord.com/" target="_blank" rel=”noopener”> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" alt="html5" width="30" height="30"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soykuu&show_icons=true&locale=en&layout=compact" alt="soykuu" /></p>
-
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=soykuu&" alt="soykuu" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=soykuu&show_icons=true&locale=en" alt="soykuu" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soykuu&show_icons=true&locale=en&layout=compact" alt="soykuu" /></p>
