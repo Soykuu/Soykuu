@@ -2,7 +2,7 @@
 <a  href="#"><img width="50%" height="20%" src="https://64.media.tumblr.com/cbd7cb0e8a2f78a1f466c80de55300d7/tumblr_ogfvy9Bc2d1vnqmpbo1_500.gif" height="175px"/></a>
 </p>
 <h1 align="center">Hi 👋, I'm Sevim Öykü Demirel</h1>
-<h3 align="center">QA test engineer from İzmir, Turkey</h3>
+<h3 align="center">Software Quality Assurance Specialist from İzmir, Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soykuu&label=Profile%20views&color=0e75b6&style=flat" alt="soykuu" /> </p>
 
